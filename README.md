@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**tommydprogrammer/tommydprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>Flutter, PHP,  Node JS, JAVA, Android Development and C#</b> ...
@@ -12,7 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about <b>Anything</b>...
 - 📫 How to reach me: <b>You can actually send a mail to me: tommydprogrammer@gmail.com</b>...
 
-<!--
 **tommydprogrammer/tommydprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
